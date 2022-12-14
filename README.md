@@ -1,4 +1,4 @@
 Applying tha main concepts about fetch API, promises.
 
-- [ ] Promises
+- [x] Promises
 - [ ] FetchAPI
